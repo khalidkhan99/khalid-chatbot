@@ -1,5 +1,0 @@
-streamlit
-openai
-streamlit-cookies-manager
-supabase
-requests
